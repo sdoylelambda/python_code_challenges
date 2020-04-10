@@ -63,32 +63,44 @@ def fibonacci(n):
     fib_infinite = []
     a = 0
     b = 1
+    c = 1
     x = a + b
     fib_infinite.append(a)
     fib_infinite.append(b)
+    fib_infinite.append(c)
     # for i in range(1, n + 1):
     v = []
     for num in range(0, n + 1):
         v.append(num)
         print(v)
-    pointer1 = fib_infinite[0]
-    print('pointer1', pointer1)
-    pointer2 = fib_infinite[1]
-    print('pointer12', pointer2)
+    # pointer1 = fib_infinite[0]
+    # print('pointer1', pointer1)
+    # pointer2 = fib_infinite[1]
+    # pointer3 = fib_infinite[2]
+    # print('pointer12', pointer2)
     for i in range(len(v)):
-        # pointer1 = fib_infinite[0]
-        # print('pointer1', pointer1)
-        # pointer2 = fib_infinite[1]
-        # print('pointer12', pointer2)
-        next_number = pointer1 + pointer2
-        print('i', i)
-        fib_infinite.append(next_number)
-        # v[i] += 1
-        # v[i] += 1
-        pointer1 = fib_infinite[+1]
-        print('pointer1x2', pointer1)
-        pointer2 += 1
-        print('pointer2x2', pointer2)
+        pointer1 = fib_infinite[0]
+        print('pointer1', pointer1)
+        pointer2 = fib_infinite[1]
+        def recurse(pointer1, pointer2):
+        # for i in range(len(v)):
+            # pointer1 = fib_infinite[0]
+            # print('pointer1', pointer1)
+            # pointer2 = fib_infinite[1]
+            # print('pointer12', pointer2)
+            print('pointer1', pointer1)
+            print('pointer2', pointer2)
+            pointer3 = pointer1 + pointer2
+            print('pointer3', pointer3)
+            print('i', i)
+            fib_infinite.append(pointer3)
+            # v[i] += 1
+            # v[i] += 1
+            pointer1x = pointer2
+            print('pointer1x2', pointer1)
+            pointer2x = pointer3
+            print('pointer2x2', pointer2)
+            recurse(pointer1x, pointer2x)
     print('fib_infinite', fib_infinite)
     integer_list = fib_infinite[:n]
 
