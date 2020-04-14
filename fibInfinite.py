@@ -85,7 +85,7 @@ def fibonacci(n):
         fib_infinite.append(next_number)
         # v[i] += 1
         # v[i] += 1
-        pointer1 = fib_infinite[+1]
+        pointer1 += 1
         print('pointer1x2', pointer1)
         pointer2 += 1
         print('pointer2x2', pointer2)
