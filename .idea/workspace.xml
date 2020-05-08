@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a65187f1-11d6-476c-abcc-62b713bed70d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FibAgain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullshit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/derlockAndAnagrams.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibInfinite.py" beforeDir="false" afterPath="$PROJECT_DIR$/fibInfinite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibRecurse.py" beforeDir="false" afterPath="$PROJECT_DIR$/fibRecurse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +23,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.fibRecurse">
+  <component name="RunManager" selected="Python.fib">
     <configuration name="fib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fib" />
         <item itemvalue="Python.fibRecurse" />
         <item itemvalue="Python.fibInf" />
         <item itemvalue="Python.scratchPaper" />
         <item itemvalue="Python.fibInfinite" />
-        <item itemvalue="Python.fib" />
       </list>
     </recent_temporary>
   </component>
