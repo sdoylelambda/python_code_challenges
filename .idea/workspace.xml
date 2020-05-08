@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a65187f1-11d6-476c-abcc-62b713bed70d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/balancedBrackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/balancedBrackets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derlockAndAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/derlockAndAnagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratchPaper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratchPaper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.fib">
+  <component name="RunManager" selected="Python.derlockAndAnagrams">
+    <configuration name="derlockAndAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/derlockAndAnagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,27 +93,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibInfinite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibInfinite.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="fibRecurse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,9 +118,6 @@
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -137,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.derlockAndAnagrams" />
+        <item itemvalue="Python.scratchPaper" />
         <item itemvalue="Python.fib" />
         <item itemvalue="Python.fibRecurse" />
         <item itemvalue="Python.fibInf" />
-        <item itemvalue="Python.scratchPaper" />
-        <item itemvalue="Python.fibInfinite" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +156,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1227" height="224" key="GridCell.Tab.0.bottom" timestamp="1588951529514">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1588951529514" />
+    <state width="1227" height="224" key="GridCell.Tab.0.center" timestamp="1588951529512">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1588951529512" />
+    <state width="1227" height="224" key="GridCell.Tab.0.left" timestamp="1588951529512">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1588951529512" />
+    <state width="1227" height="224" key="GridCell.Tab.0.right" timestamp="1588951529513">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1588951529513" />
+    <state width="1227" height="224" key="GridCell.Tab.1.bottom" timestamp="1588951529516">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1588951529516" />
+    <state width="1227" height="224" key="GridCell.Tab.1.center" timestamp="1588951529515">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1588951529515" />
+    <state width="1227" height="224" key="GridCell.Tab.1.left" timestamp="1588951529515">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1588951529515" />
+    <state width="1227" height="224" key="GridCell.Tab.1.right" timestamp="1588951529516">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1227" height="224" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1588951529516" />
     <state x="325" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1586621989288">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
