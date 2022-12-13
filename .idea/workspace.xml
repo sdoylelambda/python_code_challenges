@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a65187f1-11d6-476c-abcc-62b713bed70d" name="Default Changelist" comment="" />
+    <list default="true" id="a65187f1-11d6-476c-abcc-62b713bed70d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/calc_damage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicate_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1aM8kNLCRE0wleW4GMWlW42JZ8P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,26 +37,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.derlockAndAnagrams">
-    <configuration name="derlockAndAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/derlockAndAnagrams.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.calc_damage">
+    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,16 +50,16 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FizzBuzz.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibInf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calc_damage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,16 +71,16 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibInf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc_damage.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibRecurse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="duplicate_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,27 +92,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibRecurse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duplicate_words.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratchPaper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sortList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratchPaper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortList.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ups" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ups.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -129,14 +145,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.derlockAndAnagrams" />
-        <item itemvalue="Python.scratchPaper" />
-        <item itemvalue="Python.fib" />
-        <item itemvalue="Python.fibRecurse" />
-        <item itemvalue="Python.fibInf" />
+        <item itemvalue="Python.calc_damage" />
+        <item itemvalue="Python.sortList" />
+        <item itemvalue="Python.ups" />
+        <item itemvalue="Python.FizzBuzz" />
+        <item itemvalue="Python.duplicate_words" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -150,47 +167,25 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1227" height="224" key="GridCell.Tab.0.bottom" timestamp="1588951529514">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1588951529514" />
-    <state width="1227" height="224" key="GridCell.Tab.0.center" timestamp="1588951529512">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1588951529512" />
-    <state width="1227" height="224" key="GridCell.Tab.0.left" timestamp="1588951529512">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1588951529512" />
-    <state width="1227" height="224" key="GridCell.Tab.0.right" timestamp="1588951529513">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1588951529513" />
-    <state width="1227" height="224" key="GridCell.Tab.1.bottom" timestamp="1588951529516">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1588951529516" />
-    <state width="1227" height="224" key="GridCell.Tab.1.center" timestamp="1588951529515">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1588951529515" />
-    <state width="1227" height="224" key="GridCell.Tab.1.left" timestamp="1588951529515">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1588951529515" />
-    <state width="1227" height="224" key="GridCell.Tab.1.right" timestamp="1588951529516">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state width="1227" height="224" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1588951529516" />
-    <state x="325" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1586621989288">
-      <screen x="0" y="23" width="1280" height="726" />
-    </state>
-    <state x="325" y="221" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1586621989288" />
-    <state x="325" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.730@0.23.1280.730" timestamp="1586534251839" />
-    <state x="0" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586540343868">
-      <screen x="0" y="23" width="1280" height="730" />
-    </state>
-    <state x="0" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.730@0.23.1280.730" timestamp="1586540343868" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc_damage.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc_damage.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calc_damage.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
